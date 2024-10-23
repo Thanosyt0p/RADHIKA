@@ -12,7 +12,7 @@ MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "-1002400059087")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "irotechbotz0")
 MUSIC = getenv("MUSIC", "nothing")
-REPO = getenv("REPO", " RADHIKA")
+REPO = getenv("REPO", " REKHA")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Ironmanhindigaming")
 
 # Random Start Images
