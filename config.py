@@ -6,14 +6,14 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "21803165"))
 API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "6333624410:AAE80MnoUMn56KkpzpY1uF5t2VQrgrzbfbY")
 OWNER_ID = int(getenv("OWNER_ID", "7403621976"))
 MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "+OL6jdTL7JAJjYzVl")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "BABY09_WORLD")
 MUSIC = getenv("MUSIC", "BABY_MUSIC09_BOT")
 REPO = getenv("REPO", " RADHIKA")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Ironmanhindigaming")
 
 # Random Start Images
 IMG = [
