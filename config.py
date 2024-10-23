@@ -11,7 +11,7 @@ OWNER_ID = int(getenv("OWNER_ID", "7086360370"))
 MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "-1002400059087")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "irotechbotz0")
-MUSIC = getenv("MUSIC", "nothing")
+MUSIC = getenv("CHATBOT", "Ironrekhabot")
 REPO = getenv("REPO", " REKHA")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Ironmanhindigaming")
 
