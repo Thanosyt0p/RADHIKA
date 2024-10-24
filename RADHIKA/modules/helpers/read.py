@@ -1,4 +1,4 @@
-IPfrom config import OWNER_USERNAME, SUPPORT_GRP
+from config import OWNER_USERNAME, SUPPORT_GRP
 from RADHIKA import BOT_NAME, BOT_USERNAME
 
 START = f"""
