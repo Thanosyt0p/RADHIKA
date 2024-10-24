@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 🅁🄰🄳🄷🄸🄺🄰 」──
+   ──「 🅁🄰🄳🄷🄸🄺🄰 」──
 </h2>
 <p align="center">
   <img src="https://files.catbox.moe/iebw30.jpg">
