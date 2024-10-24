@@ -12,7 +12,7 @@ DEV_OP = [
         InlineKeyboardButton(text="˹ ʜᴇʟᴘ & ᴄᴍᴅs ˼", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", url="https://t.me/ironrekhabot"),  # MUSIC link
+        InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", url="https://t.me/BABY_MUSIC09_BOT"),  # MUSIC link
         InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url="https://github.com/BABY-MUSIC/RADHIKA"),  # REPO link
     ],
 ]
@@ -92,7 +92,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="˹ ʜᴇʟᴘ ˼", url=f"https://t.me/ironrekhabot?start=help"  # BOT_USERNAME link
+            text="˹ ʜᴇʟᴘ ˼", url=f"https://t.me/BABY_MUSIC09_BOT?start=help"  # BOT_USERNAME link
         ),
         InlineKeyboardButton(text="˹ ᴄʟᴏsᴇ ˼", callback_data="CLOSE"),
     ],
@@ -100,7 +100,7 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/IROTECH"),  # SUPPORT_GRP link
+        InlineKeyboardButton(text="˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/irotech"),  # SUPPORT_GRP link
         InlineKeyboardButton(text="˹ ʜᴇʟᴘ ˼", callback_data="HELP"),
     ],
     [
