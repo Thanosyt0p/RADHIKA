@@ -12,8 +12,8 @@ DEV_OP = [
         InlineKeyboardButton(text="˹ ʜᴇʟᴘ & ᴄᴍᴅs ˼", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", url="https://t.me/BABY_MUSIC09_BOT"),  # MUSIC link
-        InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url="https://github.com/BABY-MUSIC/RADHIKA"),  # REPO link
+        InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", url="https://t.me/ironrekhabot"),  # MUSIC link
+        InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url="https://github.com/thanosyt0p/papa-bol"),  # REPO link
     ],
 ]
 
