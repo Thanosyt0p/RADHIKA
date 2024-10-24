@@ -4,7 +4,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="˹ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ˼",
-            url=f"https://t.me/BABY_MUSIC09_BOT?startgroup=true",  # MUSIC link inserted
+            url=f"https://t.me/ironrekhabot?startgroup=true",  # MUSIC link inserted
         ),
     ],
     [
@@ -21,7 +21,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="˹ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ˼",
-            url=f"https://t.me/BABY_MUSIC09_BOT?startgroup=true",  # MUSIC link
+            url=f"https://t.me/ironrekhabot?startgroup=true",  # MUSIC link
         ),
     ],
     [
@@ -92,7 +92,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="˹ ʜᴇʟᴘ ˼", url=f"https://t.me/BABY_MUSIC09_BOT?start=help"  # BOT_USERNAME link
+            text="˹ ʜᴇʟᴘ ˼", url=f"https://t.me/ironrekhabot?start=help"  # BOT_USERNAME link
         ),
         InlineKeyboardButton(text="˹ ᴄʟᴏsᴇ ˼", callback_data="CLOSE"),
     ],
@@ -100,7 +100,7 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/OL6jdTL7JAJjYzVl"),  # SUPPORT_GRP link
+        InlineKeyboardButton(text="˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/irotech"),  # SUPPORT_GRP link
         InlineKeyboardButton(text="˹ ʜᴇʟᴘ ˼", callback_data="HELP"),
     ],
     [
@@ -108,7 +108,7 @@ ABOUT_BTN = [
         InlineKeyboardButton(text="˹ sᴏᴜʀᴄᴇ ˼", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="˹ ᴜᴘᴅᴀᴛᴇs ˼", url="https://t.me/BABY09_WORLD"),  # UPDATE_CHNL link
+        InlineKeyboardButton(text="˹ ᴜᴘᴅᴀᴛᴇs ˼", url="https://t.me/irotechbotz0"),  # UPDATE_CHNL link
         InlineKeyboardButton(text="◁", callback_data="BACK"),
     ],
 ]
