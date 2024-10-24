@@ -79,7 +79,7 @@ async def repo(_, m: Message):
     await m.reply_text(
         text=SOURCE_READ,
         reply_markup=InlineKeyboardMarkup(CLOSE_BTN),
-        disable_web_page_preview=False,
+        disable_web_page_preview=True,
     )
 
 
